@@ -1,0 +1,24 @@
+* {
+  scroll-behavior: smooth;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: sans-serif;
+}
+
+body {
+  position: relative;
+}
+
+.Link {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#root {
+  text-align: center;
+}
